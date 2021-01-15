@@ -14,7 +14,7 @@ Tarkoituksena oli tarkastella myönteisiä ja kielteisiä kokemuksia sekä verta
 
 Datassa oli edustettuna kuusi suurta yhdysvaltalaista lentoyhtiötä. Sentimenttianalyysin tulosten mukaan kaksi kolmesta tviitistä oli sävyltään kielteinen ja joka viides neutraali. Vain 15 prosenttia tviiteistä oli myönteisiä. Nämä vastausryhmät on eritelty kuvassa prosenttiosuuksin.
 
-Suurin selittävä syy kielteiselle asiakaskokemukselle oli tietty asiakaspalveluun liittynyt tilanne. Toiseksi yleisin syy oli lennon myöhästyminen. Kolmanneksi yleisin syy oli se, että vastaaja ei kyennyt kertomaan tarkkaa syytä kielteiselle asiakaskokemukselle. Neljänneksi yleisin syy oli peruuntunut lento ja viidenneksi kadonneet matkatavarat lennon aikana. Nämä kielteiset syyt on ryhmitelty alla prosenttiosuuksin.
+Suurin selittävä syy kielteiselle asiakaskokemukselle oli tietty asiakaspalveluun liittynyt tilanne. Toiseksi yleisin syy oli lennon myöhästyminen. Kolmanneksi yleisin syy oli se, että vastaaja ei kyennyt kertomaan tarkkaa syytä kielteiselle asiakaskokemukselle. Neljänneksi yleisin syy oli peruuntunut lento ja viidenneksi kadonneet matkatavarat lennon aikana. Nämä kielteiset syyt on ryhmitelty prosenttiosuuksin.
 
 Twitter-aineiston data-analytiikka tarjoaa mahdollisuudet tarkemmallekin ristiintaulukoinnille. Eli datan pohjalta voidaan rankata lentoyhtiöt paremmuusjärjestykseen ja tarkastella aiheittain lentoyhtiöiden paremmuutta.
 
